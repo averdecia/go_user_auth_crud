@@ -1,0 +1,23 @@
+{
+    "mongodb": {
+        "driver": "mongodb",
+        "host": "localhost",
+        "port": "27017",
+        "user": "root",
+        "password": "77ima",
+        "database": "game",
+        "options": "sqllite"
+    },
+    "elastic": {
+        "driver": "elasticsearch",
+        "host": "localhost",
+        "port": "9200",
+        "user": "root",
+        "password": "77ima",
+        "database": "game",
+        "options": "sqllite"
+    },
+    "default_database": "mongodb",
+    "port": "8080",
+    "jwt_key": "estaesmikeyparaeljwt"
+}
